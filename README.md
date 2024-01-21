@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nazimfb
+- 👋 Hi, I’m Nazim,
 - 👀 I’m interested in Java development.
 - 🌱 I’m currently learning Java and Spring framework.
 - 💞️ I’m looking to collaborate on Game development with Unreal Engine.
