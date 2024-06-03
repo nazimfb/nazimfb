@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nazim,
-- 👀 I’m interested in Java development.
-- 🌱 I’m currently learning Java and Spring framework.
-- 💞️ I’m looking to collaborate on Game development with Unreal Engine.
+- 👀 I’m a Java developer 
+- I’m looking forward to collaborate on interesting projects
 - 📫 How to reach me: nazimbudaqli@gmail.com
 - ⚡ Fun fact: I am interested in Urbanism, Urban development and also architecture.
 
